@@ -1,5 +1,9 @@
+este es  el segundo archivo participante b generando conflictos
+
 Lorem
 Lorem
 Lorem
 Lorem
 Lorem
+
+Archivo con los conflictos solucionados
